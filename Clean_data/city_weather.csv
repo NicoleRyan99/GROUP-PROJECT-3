@@ -1,15 +1,9 @@
 ,city,state_id,state_name,lat,lng,population,airport name,airport id,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,Chicago,IL,Illinois,41.8375,-87.6866,8586888,Chicago Midway Airport,MDW,79.79,77,92,8.01,US,2022-07-16
-1,Chicago,IL,Illinois,41.8375,-87.6866,8586888,Chicago Midway Airport,MDW,79.79,77,92,8.01,US,2022-07-16
-2,Chicago,IL,Illinois,41.8375,-87.6866,8586888,Chicago O'hare Airport,ORD,79.79,77,92,8.01,US,2022-07-16
-3,Chicago,IL,Illinois,41.8375,-87.6866,8586888,Chicago O'hare Airport,ORD,79.79,77,92,8.01,US,2022-07-16
 4,Las Vegas,NV,Nevada,36.2333,-115.2654,2165405,Las Vegas Airport,HND,112.1,22,40,4.61,US,2022-07-16
 5,Los Angeles,CA,California,34.1141,-118.4068,12531334,Los Angeles Airport,LAX,104.59,58,0,13.8,US,2022-07-16
 6,Miami,FL,Florida,25.784,-80.2101,6076316,Miami Airport, MIA,88.99,75,98,1.99,US,2022-07-16
 7,New York,NY,New York,40.6943,-73.9249,18680025,John F. Kenned Airport,JFK,84.31,66,100,10.36,US,2022-07-16
-8,New York,NY,New York,40.6943,-73.9249,18680025,John F. Kenned Airport,JFK,84.31,66,100,10.36,US,2022-07-16
-9,New York,NY,New York,40.6943,-73.9249,18680025,La Guardia Airport,LGA,84.31,66,100,10.36,US,2022-07-16
-10,New York,NY,New York,40.6943,-73.9249,18680025,La Guardia Airport,LGA,84.31,66,100,10.36,US,2022-07-16
 11,Orlando,FL,Florida,28.4773,-81.337,1792047,Orlando  Airport,MCO,89.08,69,20,12.66,US,2022-07-16
 12,San Francisco,CA,California,37.7558,-122.4449,3557982,San Francisco Airport,SFO ,99.03,68,20,17.27,US,2022-07-16
 13,Seattle,WA,Washington,47.6211,-122.3244,3530752,Seattle Airport,SEA,74.75,60,76,3.0,US,2022-07-16
