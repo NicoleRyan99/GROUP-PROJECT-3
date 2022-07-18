@@ -1,0 +1,169 @@
+/* 
+* Bootstrap Visualization Dashboard - CSS Style Sheet 
+*/
+
+
+/* Body */
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1454789476662-53eb23ba5907?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80");
+    height: 850px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Navbar */
+
+.navbar {
+    max-height: 80px;
+    background-color: white;
+    font-size: 100px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: #423646;
+}
+
+.navigation .navbar-brand {
+    color: white;
+    margin-left: 0px;
+    padding: inherit;
+    font-weight: bold;
+    background-color: white;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.active,
+.dropdown-menu .dropdown-item:active a:hover {
+    background-color: white !important;
+}
+
+.dropdown-item {
+    color: #213159 !important;
+}
+
+.dropdown .dropdown-menu .dropdown-item:active,
+.dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: #949aaa !important;
+}
+
+.nav-link:hover {
+    background-color: #E7E7E7 !important;
+}
+
+.navbar-brand:hover {
+    color: whitesmoke !important;
+}
+
+a {
+    color: #E7E7E7;
+    font-size: 15px;
+}
+
+
+/* Images */
+
+img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.active,
+.panel:hover {
+    border-color: #213159;
+    border-style: solid;
+}
+
+.visualization {
+    width: 50% !important;
+    height: 50% !important;
+}
+
+
+/* Title */
+
+.title {
+    color: #3d6098;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+
+/* Paragraph */
+
+p {
+    color: bl;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+/* Box */
+
+.box {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 10px 30px 10px;
+    color: #213159;
+    background-color: white;
+}
+
+
+/* Table */
+
+.table {
+    font-size: 15px;
+    border-top-color: white !important;
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #b58e4b;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #423646;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: #423646;
+    color: black;
+    min-height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px;
+}
+
+
+/* Media Queries */
+
+@media(max-width: 992px) {
+    .navbar-expand-lg {
+        background-color: rgb(48, 47, 46) !important;
+    }
+    .navbar {
+        max-height: none;
+        padding: inherit;
+    }
+    .navbar div {
+        margin: inherit;
+        background-color: white;
+    }
+    .navbar-brand {
+        padding: 10px !important;
+    }
+    button {
+        margin-right: 30px;
+    }
+    button:focus {
+        outline: 1px dotted;
+        outline: auto 5px;
+    }
+}
