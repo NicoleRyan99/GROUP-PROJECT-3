@@ -7,6 +7,7 @@ weather_token-Copy1.ipynb
 weather_token.ipynb
 weather-info-Copy1.ipynb
 weather-info.ipynb
+*.numbers
 
 .DS_Store = MacOS
 desktop.ini = Windows
