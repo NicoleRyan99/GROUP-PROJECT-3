@@ -1,4 +1,7 @@
 # files to ignore
+.DS_Store = MacOS
+desktop.ini = Windows
+ali-weather-rev2.ipynb
 *.pdf
 ali-weather-rev2.ipynb
 config.py
