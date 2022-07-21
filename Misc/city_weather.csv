@@ -1,0 +1,11 @@
+,city,state_id,state_name,lat,lng,population,airport name,airport id,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+0,Chicago,IL,Illinois,41.8375,-87.6866,8586888,Chicago Midway Airport,MDW,74.28,82,100,12.66,US,2022-07-17
+4,Las Vegas,NV,Nevada,36.2333,-115.2654,2165405,Las Vegas Airport,HND,112.44,20,0,28.77,US,2022-07-17
+5,Los Angeles,CA,California,34.1141,-118.4068,12531334,Los Angeles Airport,LAX,103.86,51,0,11.5,US,2022-07-16
+6,Miami,FL,Florida,25.784,-80.2101,6076316,Miami Airport, MIA,82.99,80,100,10.36,US,2022-07-17
+7,New York,NY,New York,40.6943,-73.9249,18680025,John F. Kenned Airport,JFK,79.99,78,0,8.99,US,2022-07-16
+11,Orlando,FL,Florida,28.4773,-81.337,1792047,Orlando  Airport,MCO,81.75,92,100,5.75,US,2022-07-17
+12,San Francisco,CA,California,37.7558,-122.4449,3557982,San Francisco Airport,SFO ,91.22,72,20,24.16,US,2022-07-17
+13,Seattle,WA,Washington,47.6211,-122.3244,3530752,Seattle Airport,SEA,74.08,62,100,8.05,US,2022-07-17
+14,Washington,DC,District of Columbia,38.9047,-77.0163,5066973,Washington Airport,IAD,90.77,28,0,5.79,US,2022-07-17
+15,Boston,MA,Massachusetts,42.3188,-71.0852,4465966,Boston Airport,BOS,80.22,55,100,11.5,US,2022-07-17
