@@ -103,7 +103,7 @@ def monthlysummary():
     
     monthly_summary_list = []
 
-    for DATE, AIRPORT_CODE, AIRPORT, LATITUDE, LONGITUDE, ELEVATION, Average_Wind_Speed, Max_Gust_Speed, Precipitation , Snow_Accumulation , Average_Temperature, Max_Temperature, Min_Temperature    in monthly_summary:
+    for DATE, AIRPORT_CODE, AIRPORT, LATITUDE, LONGITUDE, ELEVATION, Average_Wind_Speed, Max_Gust_Speed, Precipitation , Snow_Accumulation , Average_Temperature, Max_Temperature, Min_Temperature    in monthly_summary_result:
         row = {}
         row["DATE"] = DATE
         row["AIRPORT_CODE"] = AIRPORT_CODE
