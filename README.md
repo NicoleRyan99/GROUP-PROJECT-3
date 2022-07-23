@@ -72,7 +72,7 @@ Collectively, our team conceptualized our goals for this Project. Tasked with cr
 
 ## Presentation:
 
-[Aire](https://docs.google.com/presentation/d/1o3HwyOUJcYEHlOr2OknAgp9Qowi_c-ITvy0qvrIAezI/edit?usp=sharing)Data Visualization Project
+[Aire](https://docs.google.com/presentation/d/1o3HwyOUJcYEHlOr2OknAgp9Qowi_c-ITvy0qvrIAezI/edit?usp=sharing) **Data Visualization Project**
 
 
   
