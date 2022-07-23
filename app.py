@@ -48,7 +48,7 @@ def Welcome():
     print("List all available api routes")
     return(
         "Welcome: <br/>"
-        f"Here are the Availeble Routs: <br/>"
+        f"Here are the Available Routes: <br/>"
         f"/api/v1.0/monthlyarrivals <br/>"
         f"/api/v1.0/totalarrivals <br/>"
         f"/api/v1.0/monthlysummary <br/>"
@@ -99,13 +99,14 @@ def totalarrivals():
 @app.route("/api/v1.0/monthlysummary")
 def monthlysummary():
    
-    monthly_summary_result = session.query(monthly_summary.DATE, monthly_summary.AIRPORT_CODE, monthly_summary.AIRPORT, monthly_summary.LATITUDE, monthly_summary.LONGITUDE, monthly_summary.ELEVATION,monthly_summary.Average_Wind_Speed, monthly_summary.Max_Gust_Speed, monthly_summary.Precipitation, monthly_summary.Snow_Accumulation, monthly_summary.Average_Temperature, monthly_summary.Max_Temperature,monthly_summary.Min_Temperature ).all()
+    monthly_summary_result = session.query(monthly_summary.YEAR,monthly_summary.MONTH, monthly_summary.AIRPORT_CODE, monthly_summary.AIRPORT, monthly_summary.LATITUDE, monthly_summary.LONGITUDE, monthly_summary.ELEVATION,monthly_summary.Average_Wind_Speed, monthly_summary.Max_Gust_Speed, monthly_summary.Precipitation, monthly_summary.Snow_Accumulation, monthly_summary.Average_Temperature, monthly_summary.Max_Temperature,monthly_summary.Min_Temperature ).all()
     
     monthly_summary_list = []
 
-    for DATE, AIRPORT_CODE, AIRPORT, LATITUDE, LONGITUDE, ELEVATION, Average_Wind_Speed, Max_Gust_Speed, Precipitation , Snow_Accumulation , Average_Temperature, Max_Temperature, Min_Temperature    in monthly_summary_result:
+    for YEAR,MONTH, AIRPORT_CODE, AIRPORT, LATITUDE, LONGITUDE, ELEVATION, Average_Wind_Speed, Max_Gust_Speed, Precipitation , Snow_Accumulation , Average_Temperature, Max_Temperature, Min_Temperature    in monthly_summary_result:
         row = {}
-        row["DATE"] = DATE
+        row["YEAR"] = YEAR
+        row["MONTH"] = MONTH
         row["AIRPORT_CODE"] = AIRPORT_CODE
         row["AIRPORT"] = AIRPORT
         row["LATITUDE"] = LATITUDE

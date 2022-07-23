@@ -11512,6 +11512,14 @@
     "Year": 2020
   }, 
   {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1842378, 
+    "Year": 2017
+  }, 
+  {
     "Airport": "Ronald Reagan Washington International", 
     "Airport_Code": "DCA", 
     "City": "Washington DC", 
@@ -11613,6 +11621,958 @@
     "City": "Washington DC", 
     "Month": 12, 
     "TOTAL": 888798, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1682719, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1477798, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1658082, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1602888, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1549604, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1571214, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1679594, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1556758, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1306937, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1370850, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1503314, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1609359, 
+    "Year": 2012
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1684960, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1485802, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1706531, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1580302, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1602573, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1610673, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1709863, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1654157, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1350113, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1452624, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1492699, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1725183, 
+    "Year": 2013
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1738461, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1498922, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1718058, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1603547, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1628914, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1604569, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1683979, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1641489, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1329167, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1438218, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1504027, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1713457, 
+    "Year": 2014
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1797995, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1578207, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1750091, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1708600, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1709507, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1718296, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1854120, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1809370, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1522712, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1639599, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1654509, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1853386, 
+    "Year": 2015
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1870668, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1640938, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1842454, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1681368, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1751270, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1715048, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1849589, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1747376, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1458924, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1498046, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1614988, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1834514, 
+    "Year": 2016
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1825768, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1556520, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1817702, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1783411, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1762043, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1739862, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1853267, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1792112, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1132658, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1606780, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1686198, 
+    "Year": 2017
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1834020, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1645790, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1873323, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1743678, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1755418, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1721741, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1797124, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1748134, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1433474, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1561166, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1682202, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1885939, 
+    "Year": 2018
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1940378, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1739940, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1967698, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1757346, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1788605, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1762443, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1835935, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1789685, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1456831, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1614771, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1699116, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 1962261, 
+    "Year": 2019
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 1955490, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 1815057, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1084703, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 54648, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 114734, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 291335, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 402748, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 402612, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 412975, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 516985, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 687408, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 847973, 
+    "Year": 2020
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 1, 
+    "TOTAL": 826686, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 2, 
+    "TOTAL": 761320, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 3, 
+    "TOTAL": 1143211, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 4, 
+    "TOTAL": 1335540, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 5, 
+    "TOTAL": 1586369, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 6, 
+    "TOTAL": 1679078, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 7, 
+    "TOTAL": 1786818, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 8, 
+    "TOTAL": 1557651, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 9, 
+    "TOTAL": 1256562, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 10, 
+    "TOTAL": 1515115, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 11, 
+    "TOTAL": 1802790, 
+    "Year": 2021
+  }, 
+  {
+    "Airport": "Miami International", 
+    "Airport_Code": "MIA", 
+    "City": "Miami", 
+    "Month": 12, 
+    "TOTAL": 2096658, 
     "Year": 2021
   }
 ]
