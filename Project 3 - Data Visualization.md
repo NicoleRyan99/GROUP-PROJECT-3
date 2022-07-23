@@ -15,19 +15,19 @@
 
 ## Assumptions:
 
-The following questions and answers helped determine the required data, the analysis, and the visualizations:
+We sought to find answers to the following questions:
 
-  * **Q:**What are the 10 most popular US cities based on passenger arrivals?
+  **Question:** What are the 10 most popular US cities based on passenger arrivals?
   
-  * **Q:**What months are the most popular for each city?
+  **Question:** What months are the most popular for each city?
 
-  * **Q:**What is the average weather condition in each city per month?
+  **Question:** What is the average weather condition in each city per month?
 
-  * **Q:**What cities were preferrred over the others based on average temperatures for the year?
+  **Question:** What cities were preferrred over the others based on average temperatures for the year?
 
-  * **Q:**Based on the analysis of historical data, what is the best month to travel next year?
+  **Question:** Based on the analysis of historical data, what is the best month to travel next year?
 
-  * **Q:**Based on the analysis, what is the best city to travel to next year?
+  **Question:** Based on the analysis, what is the best city to travel to next year?
 
   ## Resources:
 
