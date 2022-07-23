@@ -41,6 +41,8 @@ We sought to find answers to the following questions:
   		* Output:  monthly_summary.csv 
   		* Description: one CSV file with monthly weather data for all 25 airports between 2011 - 2022
 
+  * All CSV files are in the [csv_files](csv_files) folder.
+
 ## Data Delivery
 
 Collectively, our team conceptualized our goals for this Project. Tasked with creating visualizations using an API via a HTML web page, incorporating Javascript, and a SQL Database we got right to work. By integrating scheduled flight patterns from the top 10 US airports by volume with weather data from those locations, we were able to fulfill this project's requirements and learn about the dynamic air-travel industry as well as the different weather patterns nationwide.
