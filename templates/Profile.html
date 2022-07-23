@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>Project 03</title>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Architects+Daughter&family=Charis+SIL:wght@700&display=swap" rel="stylesheet">
+
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+
+<!--
+So we will have an animated background with 5 clouds moving across the screen.
+Steps: 
+1. create the clouds
+2. Animate them to move across the screen
+3. Stylize the clouds(can be done as step #2 also)
+-->
+<div id="clouds">
+	<div class="cloud x1"></div>
+	<!-- Time for multiple clouds to dance around -->
+	<div class="cloud x2"></div>
+	<div class="cloud x3"></div>
+	<div class="cloud x4"></div>
+	<div class="cloud x5"></div>
+</div>
+<!-- Thats the markup! -->
+<!-- That looks cool. We are done!! -->
+  
+
+
+
+<h1>
+  <span>A</span>
+  <span>I</span>
+  <span>R</span>
+  <span>E</span>
+</h1>
+
+<nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html"> Home </a>
+
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto">
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                     Team Members
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="Profile.html?name=Ali"> Ali </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Jerry"> Jerry </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Luis"> Luis </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Nikki"> Nikki </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Scott"> Scott </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Vasanta"> Vasanta </a></li>
+                        <li><a class="dropdown-item" href="Profile.html?name=Victoria"> Victoria </a></li>
+                      </ul>
+                  </li>
+
+             <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="XXXXXX5.html"> XXXXXXX </a>
+              </li>
+
+
+
+              <li class="nav-item">
+                <a class="nav-link" href="Team.html"> About The Team </a>                                                                                                           
+              </li>
+
+
+            </ul>
+
+          </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="bg-white">
+                <h2>Profile Details</h2>
+                <div id="divProfile" class="container">
+                    
+                </div>
+    
+        </div>
+      </div>
+    </div>
+    <script>
+      var boxHtml = `<div class="col-lg-12 col-sm-12 box">
+              <button class="team">
+                <img class="teampic" src="###imgPath###" width="300"> 
+                <div class="container">
+                  <p>
+                    ###desc###
+                  </p>
+                </div>
+              </button>
+            </div>`;
+      function init() {
+        var con = document.getElementById("divProfile");
+        var strProfile = localStorage.getItem("teamProfile");
+        if(strProfile) {
+            var arrProfile = JSON.parse(strProfile);
+            if(arrProfile && arrProfile.length) {
+                var params = new Proxy(new URLSearchParams(window.location.search),{
+                    get: (searchParams,prop) => searchParams.get(prop)
+                })
+                var name = params.name;
+                if(name) {
+                    var arrFilter = arrProfile.filter((item,index) => {
+                        if(item.name == name) {
+                            return true;
+                        }
+                    });
+                    if(arrFilter && arrFilter.length) {
+                        var item = arrFilter[0];
+                        var row =  document.createElement("div");
+                        row.setAttribute("class","row");
+                        con.appendChild(row);
+                        var html = boxHtml;
+                        html = html.replace("###imgPath###",item.imgPath);
+                        html = html.replace("###desc###",item.desc);
+                        row.innerHTML += html;
+                        return;
+                    }
+                }
+                
+            }
+        }
+       
+        con.innerHTML = `<div class='row'>
+                            <div class="col-lg-12 col-sm-12 box">
+                                <div class="container">
+                                    <h4>
+                                        Profile Not Found
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>`
+    
+
+      }
+      
+      init();
+    </script>
+
+</body>
+
+</html>

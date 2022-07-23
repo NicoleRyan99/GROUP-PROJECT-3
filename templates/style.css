@@ -13,13 +13,121 @@ html,body
 
 
 img { 
-	border: 0px;
+	border: 15px solid transparent
 }
+
+.img-thumbnail { 
+	border: 15px solid transparent
+}
+
+/*  .img::after {
+	content: "";
+	background-color: #edf7ff;
+	width: 100%;
+	z-index: -1;
+	position: relative;
+	height: 100%;
+	top: 70px;
+	left: 70px;
+  }
+  */
+
+
+  .team {
+	border: 1px solid black;
+	background-color: #ffffff;
+	position: relative;
+		top: 10px;
+		left: -10px;
+
+	.teampic {
+		position: relative;
+		top: -10px;
+		left: 10px;
+  		}
+
+	}
+
+
+
+a, a:focus, a:active, button {
+	/* Keeps the pseudo-element contained to the element */
+	position: relative;
+	color:#000000;
+	text-decoration: none;
+  	}
+
+  	a:hover::before, button:hover::before {
+		transform: scaleX(1)
+  	}
+
+	a::before, button::before {
+		background: #c9dbe9;
+		content: "";
+		inset: 0;
+		position: absolute;
+		transform: scaleX(0);
+		transition: transform .5s ease-in-out;
+		z-index: -1;
+	}
+
+
+	href {
+		color:#000000;
+	  }
+	
+	
+	a:hover {
+		color:#c9dbe9
+			}
+
+
+
+
+			/* End of Page styling */
+			
+			/* Simple button styling -- No animation */
+			.simple {
+			  font-family: inherit;
+			  font-size: 16px;
+			  font-weight: 200;
+			  letter-spacing: 1px;
+			  padding: 13px 50px 13px;
+			  outline: 0;
+			  border: 1px solid black;
+			  cursor: pointer;
+			  position: relative;
+			  background-color: rgba(255, 255, 255, 0);
+			}
+			
+			.simple::after {
+			  content: "";
+			  background-color: #c9dbe9;
+			  width: 100%;
+			  z-index: -1;
+			  position: absolute;
+			  height: 100%;
+			  top: 7px;
+			  left: 7px;
+			
+			}
+			
+			.simple:hover {
+				color:#c9dbe9;
+			}
+			/* End of Simple Button */
+			
+
+
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Architects+Daughter&family=Charis+SIL:wght@700&display=swap');
 
 
+
+
+/*
 .crop {
 
 	height: 250px;
@@ -32,10 +140,54 @@ img {
 	height: 500px;
 	margin-top: -120px;
 }
+*/
 
 
 
 
+.navbar {
+
+    display: flex;
+    justify-content: space-between;
+
+	padding: 15px 50px 15px;
+	letter-spacing: 1px;
+  }
+
+  .nav-links {
+    display: flex;
+  }
+
+.navbar li {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+	color: #c9dbe9;
+  }
+
+.navbar li a {
+    color: #000;
+  }
+
+  .navbar li a:hover {
+    color:#000000;
+	position: relative;
+  }
+
+  .navbar-brand {
+    padding: 10px;
+  }
+
+  .navbar-brand:hover {
+    color:#000000;
+	position: relative;
+  }
+
+  [class*="col-"] {
+    background-clip: padding-box;
+    align-items: center;
+	padding: 15px 50px 15px;
+}
 
 
 
@@ -55,6 +207,8 @@ h1 {
     transform: scale(1);
   }
 }
+
+
 
 span {
   display: inline-block;
@@ -96,6 +250,13 @@ span:nth-child(4) {
 
 
 
+
+
+
+
+
+
+
 /*Lets start with the cloud formation rather*/
 
 /*The container will also serve as the SKY*/
@@ -107,17 +268,17 @@ span:nth-child(4) {
 	background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
 	background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
 	background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+	text-align: center;
+	overflow: hidden;
 }
 
 /*Time to finalise the cloud shape*/
 .cloud {
 	width: 200px; height: 60px;
 	background: #fff;
-	
 	border-radius: 200px;
 	-moz-border-radius: 200px;
 	-webkit-border-radius: 200px;
-	
 	position: fixed; 
 }
 
